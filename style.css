@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("back2.jpg");
+    background-size: cover;
+}
+
+.caja {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(60, 112, 53);
+    margin: 30px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 15px;
+}
+
+.fixed-icono {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-image: url("whatsapp.svg");
+    background-size: cover;
+}
